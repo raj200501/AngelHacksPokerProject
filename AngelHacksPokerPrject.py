@@ -2,7 +2,7 @@
 #The rules will be printed out for the player to understand.
 #The five random cards will be printed from a random.randint command and a dictionary.
 #The objective of the game is to not be bankrupt and essentialy have more money than the other two players.
-#The program currently prints the rules, gives you your random cards, and in a loop so that there can be multiple rounds.
+#The program will currently print the rules, gives you your random cards, and in a loop so that there can be multiple rounds.
 import time
 import random
 money = 3050
