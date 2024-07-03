@@ -1,5 +1,5 @@
 #You will be given five random cards to choose from. There are certain patterns that will help you win
-#The rules will be printed out for the player to understand.  
+#The rules will be printed out for the player to understand.
 #The five random cards will be printed from a random.randint command and a dictionary.
 #The objective of the game is to not be bankrupt and essentialy have more money than the other two players. 
 #The program currently prints the rules, and gives you your random cards, and in a loop so that there can be multiple rounds. 
